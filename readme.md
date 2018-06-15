@@ -1,7 +1,7 @@
 ## Web Pet Projects
 
 - Consists of several projects, mainly made from HTML, CSS and Javascript
-- Used frameword: Bootstrap
+- Used framework: Bootstrap
 - Feel free to read and use at your will
 
-*@DoanPhiHung, Last updated 12:08 Friday, March 30rd 2016*
+*@DoanPhiHung, Last updated 22:40 Friday, June 15th 2018*
