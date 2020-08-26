@@ -204,7 +204,9 @@
   * Body
   */
  .body-section {
- 	margin-bottom: 20px;
+	margin-bottom: 20px;
+	padding-top: 70px;
+	margin-top: -70px;
  }
 
  .body-section .section-title {
@@ -228,7 +230,7 @@
 
  .body-section .item .item-title > p {
  	font-weight: 600;
- 	color: #333;
+	color: #333;
  }
 
  #language .item-title > p {
