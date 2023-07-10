@@ -2,4 +2,4 @@
 
 - Visit: https://hugjobk.github.io
 
-*@DoanPhiHung, Last updated June 28th 2023*
+*@DoanPhiHung, Last updated July 10th 2023*
